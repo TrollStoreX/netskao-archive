@@ -1,0 +1,14 @@
+Package: com.nan.netskao-archive
+Version: 0.1.0
+Architecture: unsupport
+Maintainer: zhaonan
+Filename: ./debs/com.nan.netskao-archive_0.1.0_unsupport.deb
+Size: 744
+MD5sum: abdc8a128f01a5920b0206da38242500
+SHA1: 1d8d94b7deac98bce616c2be98b8f6ff7cea1500
+SHA256: e1dc67b2b3433e8c699152852021a956fbb597e6d2e331002d543e489d1d521e
+Section: Tips
+Description: 该源内 deb 已全部移除，请直接删除此源防止流量浪费
+Author: zhaonan
+Name: 请删除此源
+
